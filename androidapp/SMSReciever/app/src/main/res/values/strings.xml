@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SMS Forwarder</string>
+    <string name="startButton">START</string>
+    <string name="stopButton">STOP</string>
+    <string name="NotifChannelId">keppAliveChannel</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+    <string name="open_settings_button">Settings</string>
+
+    <!-- Save files -->
+    <string name="SMS_save_file">receivedSMS.txt</string>
+    <string name="settings_save_file">settings</string>
+
+    <!-- Settings -->
+    <string name="example_server">localhost</string>
+    <string name="example_phone_number">e.g..: +491771789427</string>
+    <string name="example_port">8080</string>
+
+    <string name="settings_server_url">Server URL:</string>
+    <string name="settings_sender_phone_number">Phone number:</string>
+    <string name="settings_port">Port:</string>
+
+    <string name="settings_save_button">Save and Apply</string>
+    <string name="rec_SMS_label">Last received SMS:</string>
+
+    <!-- Settings ids -->
+    <string name="phone_number_id">phoneNumber</string>
+    <string name="server_URL_id">serverURL</string>
+    <string name="port_id">port</string>
+    <string name="request_button">Request Coordinate</string>
+</resources>
